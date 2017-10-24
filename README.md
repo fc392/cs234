@@ -1,4 +1,4 @@
-Cs234 assignments
+Cs234 assignments<br>
 Assignments of Stanford cs234 in spring 2017
 ===
 [cs234](http://web.stanford.edu/class/cs234/index.html)
